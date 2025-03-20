@@ -5,7 +5,6 @@ import time
 import argparse
 import numpy as np
 import pandas as pd
-import tkinter as tk
 from pyperclip import copy as pyperclip_copy
 from datetime import datetime, timezone
 from binance.um_futures import UMFutures
